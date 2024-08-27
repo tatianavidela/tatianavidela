@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatianavidela
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web and app design.
 - 📫 How to reach me tatianavidelaliz@gmail.com
 
